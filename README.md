@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
