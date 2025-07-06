@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sandeep-sid-kumar10](https://medium.com/@sandeep-sid-kumar10)
 
-- 💬 Ask me about **Javascript, Nodejs, Express and MongoDB**
+- 💬 Ask me about **Javascript, Typescript, Nodejs, Expressjs, MongoDB, MySQL, PGSQL**
 
 - 📫 How to reach me **sandeep.sid.kumar10@gmail.com**
 
